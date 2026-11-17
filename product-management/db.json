@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Keyboard",
+      "price": 1500,
+      "category": "Accessories"
+    },
+    {
+      "id": "3",
+      "name": "Mouse",
+      "price": 800,
+      "category": "Accessories"
+    },
+    {
+      "name": "Smartwatch",
+      "price": 1499,
+      "category": "Electronics",
+      "id": "HaExh1soo9g"
+    },
+    {
+      "name": "Smart phone",
+      "price": 25000,
+      "category": "Electronics",
+      "id": "uIlHnWhQWHA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
